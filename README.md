@@ -1,4 +1,4 @@
 # InteligenciaArtificial
 
-Nome: Gustavo Bevilacqua
+Nome: Gustavo Bevilacqua  
 Matrícula: 1811100008
